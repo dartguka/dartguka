@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dartguka)](https://github.com/dartguka/github-readme-stats)
 
 <img width="180" height="180" align="right" alt="gukaGif" src=https://cdn.discordapp.com/attachments/331957488863936513/903456750957629450/hi.png>
-<h2>Follow me here </h2>
+<h2>Follow me here ❤️🔥</h2>
 <div>
 <a href="https://www.instagram.com/gukamoura" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gustavo-moura-2a1a92b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
