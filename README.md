@@ -18,8 +18,8 @@
  </div>
 
 
-- 🔭 I’m currently working as a Game development teacher at HappyCode School
-- 🌱 I’m currently enhancing my skills codding with C# on Unity3D and drawing Game Art 
+- 🔭 I’m currently working as a Designer at Sistema Brasileiro de televisão (SBT)
+- 🌱 I’m currently enhancing my skills codding with HTML, CSS, javascript and Node.js 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: <b><s>Always buying Geek stuff!</s></b>
 
