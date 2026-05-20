@@ -2,8 +2,6 @@
 
 
 
-![Gustavo Moura's GitHub stats](https://github-readme-stats.vercel.app/api?username=dartguka&show_icons=true&theme=dracula)
-
 <h2>Follow me here ❤️🔥</h2>
 <div>
 <a href="https://www.instagram.com/gukamoura" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
