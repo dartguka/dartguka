@@ -2,7 +2,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dartguka&show_icons=true&theme=dracula)
+![Gustavo Moura's GitHub stats](https://github-readme-stats.vercel.app/api?username=dartguka&show_icons=true&theme=dracula)
 
 <h2>Follow me here ❤️🔥</h2>
 <div>
