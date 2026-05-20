@@ -18,8 +18,7 @@
  </div>
 
 
-- 🔭 I’m currently working as a Designer at Sistema Brasileiro de televisão (SBT)
-- 🌱 I’m currently enhancing my skills codding with HTML, CSS, javascript and Node.js 
+- 🔭 I’m currently working on a new Portfolio
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: <b><s>Always buying Geek stuff!</s></b>
 
