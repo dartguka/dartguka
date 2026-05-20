@@ -2,9 +2,7 @@
 
 
 
-![dartguka's GitHub stats](https://github-readme-stats.vercel.app/api?username=dartguka&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dartguka)](https://github.com/dartguka/github-readme-stats)
-
+[![dartguka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <img width="180" height="180" align="right" alt="gukaGif" src=https://cdn.discordapp.com/attachments/331957488863936513/903456750957629450/hi.png>
 <h2>Follow me here ❤️🔥</h2>
 <div>
